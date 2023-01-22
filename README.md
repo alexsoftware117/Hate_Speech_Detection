@@ -6,6 +6,6 @@ The y variable is the classfication, 0 for not hate speech and 1 for hate speech
 
 Pipeline:
 
-CountVectorizer - Turn text into matrix of token counts
-TfidfTransformer - Turns CountVectorizer matrix into normalized TF representation
+CountVectorizer - Turn text into matrix of token counts\n
+TfidfTransformer - Turns CountVectorizer matrix into normalized TF representation\n
 SGD Classfier - Implements linear models with stochastic gradient descent learning, as arrays of floating point values
